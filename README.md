@@ -1,1 +1,1 @@
-# scoop-flutter-install
+# scoopを使ってflutterをインストールする

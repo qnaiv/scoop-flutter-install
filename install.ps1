@@ -1,0 +1,1 @@
+scoop install dart android-sdk android-studio adb adopt8-hotspot flutter
